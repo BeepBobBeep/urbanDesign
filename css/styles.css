@@ -1,3 +1,6 @@
+html,body{
+    overflow-x: hidden;
+}
 .row{
     margin: 0;
 }
@@ -38,7 +41,7 @@
     font-family: 'Montserrat';
     font-weight: 400;
     line-height: 1rem;
-    margin-left: 20%;
+    margin-left: 15%;
     padding-top: 40% ;
 }
 .almost{
